@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hadron:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hadron_jar</output-path>
+    <root id="archive" name="hadron.jar">
+      <element id="module-output" name="hadron" />
+    </root>
+  </artifact>
+</component>
